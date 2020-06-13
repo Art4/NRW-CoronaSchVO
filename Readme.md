@@ -15,4 +15,4 @@ Diese Repo hält die Änderungen in der CoronaSchVO in NRW fest und erlaubt es s
 
 [D01]: https://github.com/Art4/NRW-CoronaSchVO/compare/0000-00-00...2020-03-22?diff=split
 [D02]: https://github.com/Art4/NRW-CoronaSchVO/compare/2020-03-22...2020-03-30?diff=split
-[D02]: https://github.com/Art4/NRW-CoronaSchVO/compare/2020-03-30...2020-04-17?diff=split
+[D03]: https://github.com/Art4/NRW-CoronaSchVO/compare/2020-03-30...2020-04-17?diff=split
