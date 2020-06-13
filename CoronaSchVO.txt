@@ -39,7 +39,8 @@ Abstandsgebot, Mund-Nase-Bedeckung
 Personen grundsätzlich ein Mindestabstand von 1,5 Metern einzuhalten.
 (2) Wenn die Einhaltung des Mindestabstands aus medizinischen, rechtlichen, ethischen oder
 baulichen Gründen nicht möglich ist, wird das Tragen einer textilen Mund-Nase-Bedeckung
-(zum Beispiel Alltagsmaske, Schal, Tuch) empfohlen. Die vorstehenden Regelungen geltennicht, wenn Einsatzsituationen von Sicherheitsbehörden, Feuerwehr, Rettungsdienst und Ka-
+(zum Beispiel Alltagsmaske, Schal, Tuch) empfohlen. Die vorstehenden Regelungen gelten
+nicht, wenn Einsatzsituationen von Sicherheitsbehörden, Feuerwehr, Rettungsdienst und Ka-
 tastrophenschutz eine Unterschreitung des Mindestabstands erforderlich machen.
 (3) Inhaber, Leiter und Beschäftigte sowie Kunden, Nutzer und Patienten sind zum Tragen ei-
 ner Mund-Nase-Bedeckung im Sinne von Absatz 2 Satz 1 verpflichtet
@@ -206,7 +207,8 @@ Besuche auf den Zimmern der Bewohner nur durch jeweils eine Person erfolgen; in 
 deren Wohnformen der Eingliederungshilfe sind Besuche auf den Einzelzimmern grund-
 sätzlich alternativ zu Besuchen in besonderen Besucherbereichen zulässig,
 7. ein Besuchsregister geführt wird, in dem der Name des Besuchers, das Datum und die Uhr-
-zeiten des Besuchs sowie der besuchte Bewohner erfasst werden, und8. Besuche unterbleiben, wenn und soweit in der Einrichtung bei Bewohnern oder Beschäftig-
+zeiten des Besuchs sowie der besuchte Bewohner erfasst werden, und
+8. Besuche unterbleiben, wenn und soweit in der Einrichtung bei Bewohnern oder Beschäftig-
 ten eine COVID-19-Infektion festgestellt wurde. Besuche im Außenbereich können durch
 die Einrichtungsleitung ermöglicht werden.
 Die Einrichtungsleitung kann eine zeitliche Begrenzung der Besuche (z.B. auf maximal zwei
@@ -249,7 +251,8 @@ Absatz 3 vornehmen dürfen, kurzfristig und unter Vermeidung ungeschützter Kont
 Dritten verlassen. Bewohner von Wohnformen der Eingliederungshilfe können die Einrich-
 tung grundsätzlich bei Beachtung der allgemeinen Infektionsschutzstandards ohne Einschrän-
 kung verlassen; die Einrichtungsleitungen können im Ausnahmefall besondere Infektions-
-schutzmaßnahmen im Zusammenhang mit dem Verlassen der Einrichtung anordnen, wenn indem Wohnangebot außergewöhnliche Infektionsrisiken bestehen oder eine besondere Vulne-
+schutzmaßnahmen im Zusammenhang mit dem Verlassen der Einrichtung anordnen, wenn in
+dem Wohnangebot außergewöhnliche Infektionsrisiken bestehen oder eine besondere Vulne-
 rabilität der anderen dort lebenden Menschen dies erfordert.
 (8) Kantinen, Cafeterien oder andere der Öffentlichkeit zugängliche Einrichtungen für Be-
 wohner, Patienten und Besucher müssen geschlossen werden. Sie können allerdings als be-
@@ -290,7 +293,8 @@ mit Hinweisen zu richtigen Hygienemaßnahmen) zu gestatten.
 Weitere außerschulische Bildungsangebote
 
 (1) Bei der Durchführung von Bildungsangeboten und Prüfungen in Einrichtungen der Ju-
-gendarbeit und Jugendsozialarbeit, Volkshochschulen, Musikschulen sowie sonstigen nichtunter § 6 fallenden öffentlichen, kirchlichen oder privaten außerschulischen Einrichtungen
+gendarbeit und Jugendsozialarbeit, Volkshochschulen, Musikschulen sowie sonstigen nicht
+unter § 6 fallenden öffentlichen, kirchlichen oder privaten außerschulischen Einrichtungen
 und Organisationen sind geeignete Vorkehrungen zur Hygiene und zur Gewährleistung eines
 Mindestabstands von 1,5 Metern zwischen Personen, zur Begrenzung des Zutritts zu Schu-
 lungs- und Prüfungsräumen und zur Rückverfolgbarkeit nach § 2a Absatz 1 sicherzustellen.
@@ -332,7 +336,8 @@ im Freien mit bis zu einem Viertel der regulären Zuschauerkapazität, höchsten
 schauern, sind geeignete Vorkehrungen zur Hygiene, zur Steuerung des Zutritts und zur Ge-
 währleistung eines Mindestabstands von 1,5 Metern (auch in Warteschlangen) zwischen Per-
 sonen, die nicht zu den in § 1 Absatz 2 genannten Gruppen gehören, zur dauerhaften guten
-Durchlüftung der Räumlichkeit, insbesondere im Bühnenbereich, zur Rückverfolgbarkeitnach § 2a Absatz 1 und gegebenenfalls zur Umsetzung einer Pflicht zum Tragen einer Mund-
+Durchlüftung der Räumlichkeit, insbesondere im Bühnenbereich, zur Rückverfolgbarkeit
+nach § 2a Absatz 1 und gegebenenfalls zur Umsetzung einer Pflicht zum Tragen einer Mund-
 Nase-Bedeckung (§ 2 Absatz 3) sicherzustellen. Bei Aufführungen mit Sprechtheater, Musik
 mit Blasinstrumenten oder Gesang muss der Abstand zwischen Publikum und Bühne mindes-
 tens 3 Meter betragen. Konzerte und Aufführungen mit mehr Zuschauern sind auf der Grund-
@@ -373,7 +378,8 @@ einen festen Tanzpartner beschränkt und im Übrigen ein Mindestabstand von 1,5 
 schen Personen gewährleistet ist.
 (4) Beim kontaktfreien Sport- und Trainingsbetrieb im Breiten- und Freizeitsport auf und in
 öffentlichen oder privaten Sportanlagen sowie im öffentlichen Raum sind geeignete Vorkeh-
-rungen zur Hygiene, zum Infektionsschutz, zur Steuerung des Zutritts und zur Gewährleistungeines Mindestabstands von 1,5 Metern (auch in Dusch- und Waschräumen, Umkleide-, Ge-
+rungen zur Hygiene, zum Infektionsschutz, zur Steuerung des Zutritts und zur Gewährleistung
+eines Mindestabstands von 1,5 Metern (auch in Dusch- und Waschräumen, Umkleide-, Ge-
 sellschafts- und sonstigen Gemeinschaftsräumen sowie in Warteschlangen) zwischen Perso-
 nen, die nicht zu den in § 1 Absatz 2 genannten Gruppen gehören, sicherzustellen. Unter die-
 sen Voraussetzungen ist im Freien für Personen, die zu den in § 1 Absatz 2 genannten Grup-
@@ -541,7 +547,8 @@ gen Behörden können in Abstimmung mit der Versammlungsbehörde weitergehende S
 maßnahmen anordnen. Satz 1 und 2 gelten entsprechend für Veranstaltungen, die der Grund-
 versorgung der Bevölkerung dienen.
 (5) Zulässig sind Beerdigungen, wenn die erforderlichen Vorkehrungen zur Hygiene und zur
-Gewährleistung eines Mindestabstands von 1,5 Metern zwischen Personen, die nicht zu den in§ 1 Absatz 2 genannten Gruppen gehören, eingehalten werden. In geschlossenen Räumen
+Gewährleistung eines Mindestabstands von 1,5 Metern zwischen Personen, die nicht zu den in
+§ 1 Absatz 2 genannten Gruppen gehören, eingehalten werden. In geschlossenen Räumen
 (z.B. Trauerhalle) ist zudem die Rückverfolgbarkeit nach § 2a sicherzustellen.
 (6) Standesamtliche Trauungen einschließlich der Zusammenkunft unmittelbar vor dem Ort
 der Trauung sind auch mit Gästen zulässig, wenn die Gewährleistung eines Mindestabstands
