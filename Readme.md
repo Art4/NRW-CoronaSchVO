@@ -16,6 +16,7 @@ Diese Repo hält die Änderungen in der CoronaSchVO in NRW fest und erlaubt es s
 | 20.05.2020         | 21.05.2020     | 11.06.2020     | [Änderungen anzeigen][D08]  |
 | [27.05.2020][Q09]  | 30.05.2020     | 15.06.2020     | [Änderungen anzeigen][D09]  |
 | 29.05.2020         | 30.05.2020     | 15.06.2020     | [Änderungen anzeigen][D10]  |
+| [10.06.2020][Q11]  | 15.06.2020     | 01.07.2020     | [Änderungen anzeigen][D11]  |
 
 [Q01]: https://www.land.nrw/de/pressemitteilung/landesregierung-beschliesst-weitreichendes-kontaktverbot-und-weitere-massnahmen-zur
 [Q03]: https://www.land.nrw/de/pressemitteilung/landesregierung-setzt-weitere-massnahmen-zum-umgang-mit-der-coronavirus-pandemie-um
@@ -23,6 +24,7 @@ Diese Repo hält die Änderungen in der CoronaSchVO in NRW fest und erlaubt es s
 [Q05]: https://www.land.nrw/de/pressemitteilung/mit-abstand-und-schutz-betrieb-bestimmter-kultur-und-freizeiteinrichtungen-ab
 [Q07]: https://www.land.nrw/de/pressemitteilung/nordrhein-westfalen-plan-tritt-kraft-stufenweise-oeffnung-der-anti-corona
 [Q09]: https://www.land.nrw/de/pressemitteilung/weitere-schritte-des-nordrhein-westfalen-plans-werden-umgesetzt-zielgerichtete
+[Q11]: https://www.land.nrw/de/pressemitteilung/neue-fassung-der-corona-schutzverordnung-mit-weiteren-erleichterungen-gilt-ab
 
 [D01]: https://github.com/Art4/NRW-CoronaSchVO/compare/0000-00-00...2020-03-22?diff=split
 [D02]: https://github.com/Art4/NRW-CoronaSchVO/compare/2020-03-22...2020-03-30?diff=split
@@ -34,3 +36,4 @@ Diese Repo hält die Änderungen in der CoronaSchVO in NRW fest und erlaubt es s
 [D08]: https://github.com/Art4/NRW-CoronaSchVO/compare/2020-05-08...2020-05-20?diff=split
 [D09]: https://github.com/Art4/NRW-CoronaSchVO/compare/2020-05-20...2020-05-27?diff=split
 [D10]: https://github.com/Art4/NRW-CoronaSchVO/compare/2020-05-27...2020-05-29?diff=split
+[D11]: https://github.com/Art4/NRW-CoronaSchVO/compare/2020-05-29...2020-06-10?diff=split
