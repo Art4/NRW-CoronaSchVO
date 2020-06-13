@@ -15,6 +15,7 @@ Diese Repo hält die Änderungen in der CoronaSchVO in NRW fest und erlaubt es s
 | [08.05.2020][Q07]  | 11.05.2020     | 25.05.2020     | [Änderungen anzeigen][D07]  |
 | 20.05.2020         | 21.05.2020     | 11.06.2020     | [Änderungen anzeigen][D08]  |
 | [27.05.2020][Q09]  | 30.05.2020     | 15.06.2020     | [Änderungen anzeigen][D09]  |
+| 29.05.2020         | 30.05.2020     | 15.06.2020     | [Änderungen anzeigen][D10]  |
 
 [Q01]: https://www.land.nrw/de/pressemitteilung/landesregierung-beschliesst-weitreichendes-kontaktverbot-und-weitere-massnahmen-zur
 [Q03]: https://www.land.nrw/de/pressemitteilung/landesregierung-setzt-weitere-massnahmen-zum-umgang-mit-der-coronavirus-pandemie-um
@@ -32,3 +33,4 @@ Diese Repo hält die Änderungen in der CoronaSchVO in NRW fest und erlaubt es s
 [D07]: https://github.com/Art4/NRW-CoronaSchVO/compare/2020-05-06...2020-05-08?diff=split
 [D08]: https://github.com/Art4/NRW-CoronaSchVO/compare/2020-05-08...2020-05-20?diff=split
 [D09]: https://github.com/Art4/NRW-CoronaSchVO/compare/2020-05-20...2020-05-27?diff=split
+[D10]: https://github.com/Art4/NRW-CoronaSchVO/compare/2020-05-27...2020-05-29?diff=split
