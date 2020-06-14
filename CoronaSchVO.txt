@@ -206,7 +206,8 @@ a) der medizinischen oder pflegerischen Versorgung dienen,
 b) aus Rechtsgründen (insbesondere zwingende Angelegenheiten im Zusammenhang mit
 einer rechtlichen Betreuung) erforderlich sind oder
 c) nach Maßgaben der jeweiligen Einrichtungsleitung unter den Richtlinien und Empfeh-
-lungen des Robert Koch-Instituts entsprechenden Hygienevorgaben zugelassen werden;dabei sollen insbesondere medizinisch, ethisch-sozial oder seelsorgerisch gebotene Be-
+lungen des Robert Koch-Instituts entsprechenden Hygienevorgaben zugelassen werden;
+dabei sollen insbesondere medizinisch, ethisch-sozial oder seelsorgerisch gebotene Be-
 suche ermöglicht werden (z.B. auf Geburts- und Kinderstationen sowie bei Palliativpati-
 enten).
 (3) Besuche in vollstationären Einrichtungen der Pflege und besonderen Wohnformen der
