@@ -23,6 +23,7 @@ Dieses Repo hält die Änderungen in der CoronaSchVO in NRW fest und erlaubt es 
 | [06.07.2020][Q15]  | 07.07.2020     | 15.07.2020     | [Änderungen anzeigen][D15]  |
 | [12.07.2020][Q16]  | 15.07.2020     | 11.08.2020     | [Änderungen anzeigen][D16]  |
 | [11.08.2020][Q17]  | 12.08.2020     | 31.08.2020     | [Änderungen anzeigen][D17]  |
+| [13.08.2020][Q18]  | 14.08.2020     | 31.08.2020     | [Änderungen anzeigen][D18]  |
 
 [Q01]: https://www.land.nrw/de/pressemitteilung/landesregierung-beschliesst-weitreichendes-kontaktverbot-und-weitere-massnahmen-zur
 [Q03]: https://www.land.nrw/de/pressemitteilung/landesregierung-setzt-weitere-massnahmen-zum-umgang-mit-der-coronavirus-pandemie-um
@@ -37,6 +38,7 @@ Dieses Repo hält die Änderungen in der CoronaSchVO in NRW fest und erlaubt es 
 [Q15]: https://www.land.nrw/sites/default/files/asset/document/2020-07-06_fassung_coronaschvo_ab_07.07.2020_lesefassung.pdf
 [Q16]: https://www.land.nrw/sites/default/files/asset/document/2020-07-12_fassung_coronaschvo_ab_15.07.2020_lesefassung.pdf
 [Q17]: https://www.land.nrw/sites/default/files/asset/document/2020-08-11_fassung_coronaschvo_ab_12.08.2020.pdf
+[Q18]: https://www.land.nrw/sites/default/files/asset/document/2020-08-13_fassung_coronaschvo_ab_14.08.2020.pdf
 
 [D01]: https://github.com/Art4/NRW-CoronaSchVO/compare/0000-00-00...2020-03-22?diff=split
 [D02]: https://github.com/Art4/NRW-CoronaSchVO/compare/2020-03-22...2020-03-30?diff=split
@@ -55,3 +57,4 @@ Dieses Repo hält die Änderungen in der CoronaSchVO in NRW fest und erlaubt es 
 [D15]: https://github.com/Art4/NRW-CoronaSchVO/compare/2020-07-01...2020-07-06?diff=split
 [D16]: https://github.com/Art4/NRW-CoronaSchVO/compare/2020-07-06...2020-07-12?diff=split
 [D17]: https://github.com/Art4/NRW-CoronaSchVO/compare/2020-07-12...2020-08-11?diff=split
+[D18]: https://github.com/Art4/NRW-CoronaSchVO/compare/2020-08-11...2020-08-13?diff=split
