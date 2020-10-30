@@ -29,6 +29,7 @@ Dieses Repo hält die Änderungen in der CoronaSchVO in NRW fest und erlaubt es 
 | [30.09.2020][Q21]  | 01.10.2020     | 31.10.2020     | [Änderungen anzeigen][D21]  |
 | [13.10.2020][Q22]  | 14.10.2020     | 31.10.2020     | [Änderungen anzeigen][D22]  |
 | [16.10.2020][Q23]  | 17.10.2020     | 31.10.2020     | [Änderungen anzeigen][D23]  |
+| [30.10.2020][Q24]  | 02.11.2020     | 30.11.2020 (bzw. 31.12.2020 und 03.01.2021)     | [Änderungen anzeigen][D24]  |
 
 [Q01]: https://www.land.nrw/de/pressemitteilung/landesregierung-beschliesst-weitreichendes-kontaktverbot-und-weitere-massnahmen-zur
 [Q03]: https://www.land.nrw/de/pressemitteilung/landesregierung-setzt-weitere-massnahmen-zum-umgang-mit-der-coronavirus-pandemie-um
@@ -49,6 +50,7 @@ Dieses Repo hält die Änderungen in der CoronaSchVO in NRW fest und erlaubt es 
 [Q21]: https://www.land.nrw/sites/default/files/asset/document/2020-09-30_coronaschvo_ab_01.10.2020_lesefassung_0.pdf
 [Q22]: https://www.land.nrw/sites/default/files/asset/document/2020-10-13_coronaschvo_ab_14.10.2020_lesefassung.pdf
 [Q23]: https://www.land.nrw/sites/default/files/asset/document/2020-10-16_coronaschvo_ab_17.10.2020_lesefassung.pdf
+[Q24]: https://www.land.nrw/sites/default/files/asset/document/2020-10-30_coronaschutzverordnung_vom_30._oktober_2020.pdf
 
 [D01]: https://github.com/Art4/NRW-CoronaSchVO/compare/0000-00-00...2020-03-22?diff=split
 [D02]: https://github.com/Art4/NRW-CoronaSchVO/compare/2020-03-22...2020-03-30?diff=split
@@ -73,3 +75,4 @@ Dieses Repo hält die Änderungen in der CoronaSchVO in NRW fest und erlaubt es 
 [D21]: https://github.com/Art4/NRW-CoronaSchVO/compare/2020-09-15-1...2020-09-30?diff=split
 [D22]: https://github.com/Art4/NRW-CoronaSchVO/compare/2020-09-30...2020-10-13?diff=split
 [D23]: https://github.com/Art4/NRW-CoronaSchVO/compare/2020-10-13...2020-10-16?diff=split
+[D24]: https://github.com/Art4/NRW-CoronaSchVO/compare/2020-10-16...2020-10-30?diff=split
