@@ -6,30 +6,31 @@ Dieses Repo hält die Änderungen in der CoronaSchVO in NRW fest und erlaubt es 
 
 | Fassung vom        | In Kraft ab    | Läuft ab am    | Diff zur vorherigen Fassung |
 | ------------------ | -------------- | -------------- | --------------------------- |
-| [22.03.2020][Q01]  | 23.03.2020     | 20.04.2020     | [Änderungen anzeigen][D01]  |
-| 30.03.2020         | 31.03.2020     | 20.04.2020     | [Änderungen anzeigen][D02]  |
-| [17.04.2020][Q03]  | 20.04.2020     | 03.05.2020     | [Änderungen anzeigen][D03]  |
-| [24.04.2020][Q04]  | 27.04.2020     | 03.05.2020     | [Änderungen anzeigen][D04]  |
-| [01.05.2020][Q05]  | 04.05.2020     | 10.05.2020     | [Änderungen anzeigen][D05]  |
-| 06.05.2020         | 07.05.2020     | 11.05.2020     | [Änderungen anzeigen][D06]  |
-| [08.05.2020][Q07]  | 11.05.2020     | 25.05.2020     | [Änderungen anzeigen][D07]  |
-| 20.05.2020         | 21.05.2020     | 11.06.2020     | [Änderungen anzeigen][D08]  |
-| [27.05.2020][Q09]  | 30.05.2020     | 15.06.2020     | [Änderungen anzeigen][D09]  |
-| 29.05.2020         | 30.05.2020     | 15.06.2020     | [Änderungen anzeigen][D10]  |
-| [10.06.2020][Q11]  | 15.06.2020     | 01.07.2020     | [Änderungen anzeigen][D11]  |
-| [15.06.2020][Q12]  | 16.06.2020     | 01.07.2020     | [Änderungen anzeigen][D12]  |
-| [18.06.2020][Q13]  | 19.06.2020     | 01.07.2020     | [Änderungen anzeigen][D13]  |
-| [01.07.2020][Q14]  | 02.07.2020     | 15.07.2020     | [Änderungen anzeigen][D14]  |
-| [06.07.2020][Q15]  | 07.07.2020     | 15.07.2020     | [Änderungen anzeigen][D15]  |
-| [12.07.2020][Q16]  | 15.07.2020     | 11.08.2020     | [Änderungen anzeigen][D16]  |
-| [11.08.2020][Q17]  | 12.08.2020     | 31.08.2020     | [Änderungen anzeigen][D17]  |
-| [13.08.2020][Q18]  | 14.08.2020     | 31.08.2020     | [Änderungen anzeigen][D18]  |
-| [31.08.2020][Q19]  | 01.09.2020     | 15.09.2020     | [Änderungen anzeigen][D19]  |
-| [15.09.2020][Q20]  | 16.09.2020     | 30.09.2020     | [Änderungen anzeigen][D20]  |
-| [30.09.2020][Q21]  | 01.10.2020     | 31.10.2020     | [Änderungen anzeigen][D21]  |
-| [13.10.2020][Q22]  | 14.10.2020     | 31.10.2020     | [Änderungen anzeigen][D22]  |
-| [16.10.2020][Q23]  | 17.10.2020     | 31.10.2020     | [Änderungen anzeigen][D23]  |
+| [09.11.2020][Q25]  | 10.11.2020     | 30.11.2020 (bzw. 31.12.2020 und 03.01.2021)     | [Änderungen anzeigen][D25]  |
 | [30.10.2020][Q24]  | 02.11.2020     | 30.11.2020 (bzw. 31.12.2020 und 03.01.2021)     | [Änderungen anzeigen][D24]  |
+| [16.10.2020][Q23]  | 17.10.2020     | 31.10.2020     | [Änderungen anzeigen][D23]  |
+| [13.10.2020][Q22]  | 14.10.2020     | 31.10.2020     | [Änderungen anzeigen][D22]  |
+| [30.09.2020][Q21]  | 01.10.2020     | 31.10.2020     | [Änderungen anzeigen][D21]  |
+| [15.09.2020][Q20]  | 16.09.2020     | 30.09.2020     | [Änderungen anzeigen][D20]  |
+| [31.08.2020][Q19]  | 01.09.2020     | 15.09.2020     | [Änderungen anzeigen][D19]  |
+| [13.08.2020][Q18]  | 14.08.2020     | 31.08.2020     | [Änderungen anzeigen][D18]  |
+| [11.08.2020][Q17]  | 12.08.2020     | 31.08.2020     | [Änderungen anzeigen][D17]  |
+| [12.07.2020][Q16]  | 15.07.2020     | 11.08.2020     | [Änderungen anzeigen][D16]  |
+| [06.07.2020][Q15]  | 07.07.2020     | 15.07.2020     | [Änderungen anzeigen][D15]  |
+| [01.07.2020][Q14]  | 02.07.2020     | 15.07.2020     | [Änderungen anzeigen][D14]  |
+| [18.06.2020][Q13]  | 19.06.2020     | 01.07.2020     | [Änderungen anzeigen][D13]  |
+| [15.06.2020][Q12]  | 16.06.2020     | 01.07.2020     | [Änderungen anzeigen][D12]  |
+| [10.06.2020][Q11]  | 15.06.2020     | 01.07.2020     | [Änderungen anzeigen][D11]  |
+| 29.05.2020         | 30.05.2020     | 15.06.2020     | [Änderungen anzeigen][D10]  |
+| [27.05.2020][Q09]  | 30.05.2020     | 15.06.2020     | [Änderungen anzeigen][D09]  |
+| 20.05.2020         | 21.05.2020     | 11.06.2020     | [Änderungen anzeigen][D08]  |
+| [08.05.2020][Q07]  | 11.05.2020     | 25.05.2020     | [Änderungen anzeigen][D07]  |
+| 06.05.2020         | 07.05.2020     | 11.05.2020     | [Änderungen anzeigen][D06]  |
+| [01.05.2020][Q05]  | 04.05.2020     | 10.05.2020     | [Änderungen anzeigen][D05]  |
+| [24.04.2020][Q04]  | 27.04.2020     | 03.05.2020     | [Änderungen anzeigen][D04]  |
+| [17.04.2020][Q03]  | 20.04.2020     | 03.05.2020     | [Änderungen anzeigen][D03]  |
+| 30.03.2020         | 31.03.2020     | 20.04.2020     | [Änderungen anzeigen][D02]  |
+| [22.03.2020][Q01]  | 23.03.2020     | 20.04.2020     | [Änderungen anzeigen][D01]  |
 
 [Q01]: https://www.land.nrw/de/pressemitteilung/landesregierung-beschliesst-weitreichendes-kontaktverbot-und-weitere-massnahmen-zur
 [Q03]: https://www.land.nrw/de/pressemitteilung/landesregierung-setzt-weitere-massnahmen-zum-umgang-mit-der-coronavirus-pandemie-um
@@ -51,6 +52,7 @@ Dieses Repo hält die Änderungen in der CoronaSchVO in NRW fest und erlaubt es 
 [Q22]: https://www.land.nrw/sites/default/files/asset/document/2020-10-13_coronaschvo_ab_14.10.2020_lesefassung.pdf
 [Q23]: https://www.land.nrw/sites/default/files/asset/document/2020-10-16_coronaschvo_ab_17.10.2020_lesefassung.pdf
 [Q24]: https://www.land.nrw/sites/default/files/asset/document/2020-10-30_coronaschutzverordnung_vom_30._oktober_2020.pdf
+[Q25]: https://www.land.nrw/sites/default/files/asset/document/2020-11-09_coronaschvo_ab_10.11.2020_lesefassung.pdf
 
 [D01]: https://github.com/Art4/NRW-CoronaSchVO/compare/0000-00-00...2020-03-22?diff=split
 [D02]: https://github.com/Art4/NRW-CoronaSchVO/compare/2020-03-22...2020-03-30?diff=split
@@ -76,3 +78,4 @@ Dieses Repo hält die Änderungen in der CoronaSchVO in NRW fest und erlaubt es 
 [D22]: https://github.com/Art4/NRW-CoronaSchVO/compare/2020-09-30...2020-10-13?diff=split
 [D23]: https://github.com/Art4/NRW-CoronaSchVO/compare/2020-10-13...2020-10-16?diff=split
 [D24]: https://github.com/Art4/NRW-CoronaSchVO/compare/2020-10-16...2020-10-30?diff=split
+[D25]: https://github.com/Art4/NRW-CoronaSchVO/compare/2020-10-30...2020-11-09?diff=split
